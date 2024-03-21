@@ -1,5 +1,5 @@
 # ZuPay Blogging Platform
-
+# Due to My laptop ram issue i was not able to dockerize it
 ZuPay is a secure blogging platform built with FastAPI and MongoDB, allowing users to register, create, read, update, and delete their blogs. It also provides features such as tagging, following tags, and retrieving blogs based on tags.
 
 ## Features
@@ -10,6 +10,7 @@ ZuPay is a secure blogging platform built with FastAPI and MongoDB, allowing use
 - **Tagging System**: Blogs can be tagged with keywords for easy categorization and search.
 - **Blog Management**: CRUD operations for creating, reading, updating, and deleting blogs.
 - **Followed Tags**: Users can follow tags to receive relevant blog recommendations.
+
 
 ## Requirements
 
