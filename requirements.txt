@@ -1,0 +1,8 @@
+motor
+fastapi
+uvicorn
+pydantic
+pymongo
+passlib
+jwt
+bson
