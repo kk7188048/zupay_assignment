@@ -12,7 +12,7 @@ def send_email(email: str, subject: str, message: str):
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
     sender_email = "krishnakumar329865@gmail.com"
-    sender_password = "xutvhceedwdqwdzk"
+    sender_password = "xutvhcesfmndwdqwdzk"
     msg = MIMEMultipart()
     msg["From"] = sender_email
     msg["To"] = email
